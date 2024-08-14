@@ -2,9 +2,9 @@
 
 
 ;规则集定义
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/clouded36/rules/main/Direct.list?token=GHSAT0AAAAAACTLZ5LHEUA2GUDAYB2GTINEZV47PSQ
-ruleset=🚀 节点选择,https://raw.githubusercontent.com/clouded36/rules/main/ProxyLite.list?token=GHSAT0AAAAAACTLZ5LHR3XIM7UKYXHBI6O4ZV47QUA
-ruleset=🤖 AI,https://raw.githubusercontent.com/clouded36/rules/main/AI.list?token=GHSAT0AAAAAACTLZ5LH2G4CIMDQ47GGFEGMZV47QLA
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/clouded36/rules/main/Direct.list
+ruleset=🚀 节点选择,https://raw.githubusercontent.com/clouded36/rules/main/ProxyLite.list
+ruleset=🤖 AI,https://raw.githubusercontent.com/clouded36/rules/main/AI.list
 
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
