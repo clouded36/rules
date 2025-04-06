@@ -1,6 +1,14 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
+IP-CIDR,193.123.236.23/32,no-resolve
+IP-CIDR,192.210.226.168/32,no-resolve
+DOMAIN-SUFFIX,monsterhunter.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,playfabapi.com
+DOMAIN-SUFFIX,media.emby.vip
+DOMAIN-SUFFIX,aiseet.atianqi.com
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
