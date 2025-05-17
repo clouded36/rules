@@ -6,7 +6,7 @@ IP-CIDR,192.210.226.168/32,no-resolve
 DOMAIN-SUFFIX,monsterhunter.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,playfabapi.com
-DOMAIN-SUFFIX,media.emby.vip
+#DOMAIN-SUFFIX,media.emby.vip
 DOMAIN-SUFFIX,aiseet.atianqi.com
 
 # 域名后缀匹配
