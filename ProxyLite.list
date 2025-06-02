@@ -2,7 +2,8 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,media.emby.vip
-
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,term.wtf
 # 域名关键字匹配
 DOMAIN-KEYWORD,jmsooo
 
