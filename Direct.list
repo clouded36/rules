@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,playfabapi.com
 #DOMAIN-SUFFIX,media.emby.vip
 DOMAIN-SUFFIX,aiseet.atianqi.com
+DOMAIN-SUFFIX,spotify.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
