@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,playfabapi.com
 DOMAIN-SUFFIX,aiseet.atianqi.com
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,nexconvert.com
+DOMAIN-SUFFIX,fq.greysite.eu.org
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
