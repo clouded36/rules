@@ -3,3 +3,23 @@ DOMAIN-SUFFIX,mc.163.com
 DOMAIN-SUFFIX,nie.163.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-KEYWORD,minecraft
+
+# 哔哩哔哩域名匹配
+DOMAIN-KEYWORD,bilibili
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,im9.com
+
+#拼多多
+DOMAIN-KEYWORD,pinduoduo
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,pinduoduo.net
+DOMAIN-SUFFIX,pinduoduo.net.cn
+DOMAIN-SUFFIX,pinduoduo.com.cn
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,pddcloud.com
+DOMAIN-SUFFIX,pddapp.com
+DOMAIN-SUFFIX,yangkeduo.com
