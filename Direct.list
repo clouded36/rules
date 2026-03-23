@@ -3,6 +3,7 @@
 # MyList
 IP-CIDR,193.123.236.23/32,no-resolve
 IP-CIDR,192.210.226.63/32,no-resolve
+IP-CIDR,198.20.153.68/32,no-resolve
 DOMAIN-SUFFIX,monsterhunter.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,playfabapi.com
