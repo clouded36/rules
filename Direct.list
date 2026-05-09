@@ -7,7 +7,7 @@ IP-CIDR,198.20.153.68/32,no-resolve
 DOMAIN-SUFFIX,monsterhunter.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,playfabapi.com
-#DOMAIN-SUFFIX,media.emby.vip
+DOMAIN-SUFFIX,cn.emby.vip
 DOMAIN-SUFFIX,aiseet.atianqi.com
 DOMAIN-SUFFIX,nexconvert.com
 DOMAIN-SUFFIX,fq.greysite.eu.org
