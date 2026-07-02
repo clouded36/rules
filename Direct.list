@@ -11,11 +11,15 @@ DOMAIN-SUFFIX,cn.emby.vip
 DOMAIN-SUFFIX,aiseet.atianqi.com
 DOMAIN-SUFFIX,nexconvert.com
 DOMAIN-SUFFIX,fq.greysite.eu.org
-
+localhost
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+
+# autodesk
+DOMAIN-SUFFIX,autodesk.com
+DOMAIN-SUFFIX,autodesk360.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
